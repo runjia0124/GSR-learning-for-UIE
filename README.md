@@ -4,9 +4,13 @@ This is the official implementation for "Global Structure-guided Learning Framew
 
 ### Representative Results
 
-![](C:\Users\24424\Desktop\display.png)
+![](https://raw.githubusercontent.com/runjia0124/GSR-learning/main/archive/display.png)
 
 ### Overall Architecture
 
-![](C:\Users\24424\Desktop\pipeline.png)
+![](https://raw.githubusercontent.com/runjia0124/GSR-learning/main/archive/pipeline.png)
+
+Environment Preparing
+
+`python3.7`
 
