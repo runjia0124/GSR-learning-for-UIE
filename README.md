@@ -12,7 +12,9 @@ This is the official implementation for "Global Structure-guided Learning Framew
 
 ### Environment Preparing
 
-`python3.5`
+`python == 3.7
+ torchvision == 0.7.0
+`
 
 #### Training process
 Please prepare your dataset and put the input image into `./dataset/trainA`, the reference image into `./dataset/trainB`.
@@ -20,7 +22,7 @@ Please prepare your dataset and put the input image into `./dataset/trainA`, the
 
 #### Test
 
-` python scripts/script.py --train`
+` python scripts/script.py --test`
 
 ### Reach me
 
