@@ -22,5 +22,5 @@ Please prepare your dataset and put the input image into `./dataset/trainA`, the
 
 ` python scripts/script.py --train`
 
-#### Reach me
+### Reach me
 junko.lin@yahoo.com
