@@ -10,21 +10,22 @@ This is the official implementation for "Global Structure-guided Learning Framew
 
 ![](https://raw.githubusercontent.com/runjia0124/GSR-learning/main/archive/pipeline.png)
 
-### Environment Preparing
+## Environment Preparing
 
-`python == 3.7`
- `torchvision == 0.7.0`
+- python == 3.7
+- torchvision == 0.7.0
+- pytorch == 1.6.0
+- cudatoolkit == 10.2
 
-#### Training process
+### Training process
 Please prepare your dataset and put the input image into `./dataset/trainA`, the reference image into `./dataset/trainB`.
+
 `python scripts/script.py --train`
 
-#### Test
+### Test
 
 ` python scripts/script.py --test`
 
 ### Reach me
 
 E-mail: junko.lin@yahoo.com
-
-qq: 2442496008
