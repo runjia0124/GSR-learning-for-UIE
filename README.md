@@ -2,7 +2,7 @@
 
 Please note that this work is still **under peer-review**, submitted to "The Visual Computer" in May, 2021.
 
-This is the official implementation for "Global Structure-guided Learning Framework for Underwater Image Enhancement".
+This is the official implementation for "[Global Structure-guided Learning Framework for Underwater Image Enhancement](https://runjia-rasisa.github.io/files/paper3.pdf)".
 
 ### Representative Results
 
