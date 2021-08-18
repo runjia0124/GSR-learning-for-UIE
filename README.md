@@ -1,4 +1,6 @@
-# Global Structure Guided Recovery Model
+# Global Structure Guided Learning Framework for Underwater Image Enhancement
+
+Please note that this work is still **under peer-review**, submitted to "The Visual Computer" in May, 2021.
 
 This is the official implementation for "Global Structure-guided Learning Framework for Underwater Image Enhancement".
 
