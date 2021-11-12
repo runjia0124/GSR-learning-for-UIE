@@ -1,6 +1,6 @@
 # Global Structure Guided Learning Framework for Underwater Image Enhancement
 
-This is the official implementation for the paper "[Global Structure-guided Learning Framework for Underwater Image Enhancement](https://runjia-rasisa.github.io/files/paper3.pdf)".
+This is the official implementation for the paper "[Global Structure-guided Learning Framework for Underwater Image Enhancement](https://link.springer.com/content/pdf/10.1007/s00371-021-02305-0.pdf)".
 
 ### Representative Results
 
